@@ -1,0 +1,22 @@
+.badge {
+  padding: 6px 11px;
+  color: var(--txt-white);
+  border-radius: 10px;
+  box-shadow: var(--box-shadow);
+}
+
+.badge-primary {
+  background-color: #0652dd;
+}
+
+.badge-success {
+  background-color: #a3cb38;
+}
+
+.badge-warning {
+  background-color: #ffc312;
+}
+
+.badge-danger {
+  background-color: #ea2027;
+}
